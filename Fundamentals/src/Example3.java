@@ -1,6 +1,6 @@
 class Example3
 {
-	public static void main(String[] args)
+	public static void main(String argsp[])
 	{
 		int a=Integer.parseInt(args[0]);
 		int b=Integer.parseInt(args[1]);
